@@ -13,3 +13,5 @@ Launch TurtleBot navigation is the software processes that enable a TurtleBot ro
     sudo apt install ros-noetic-turtlebot3-simulations
 ![‏‏لقطة الشاشة (65)](https://github.com/user-attachments/assets/4ccdb127-c5da-4547-a65e-10d9bf4bea5d)
 
+3- Create map and launch navigation
+
